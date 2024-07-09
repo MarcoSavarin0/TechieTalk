@@ -1,0 +1,118 @@
+[
+  {
+    "ref": "90d2f843-6b9c-476e-8f8d-246285358c7a",
+    "keyword": "46f897944a990c18df0eaaac701c9ecc",
+    "answer": "Hola",
+    "options": {},
+    "from": "5493426158055",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_36b6ed21-2549-4f54-8779-dd675d1cbbea",
+    "keyword": "key_e381ae31-c364-4a46-896c-1befb3e5a00a",
+    "answer": "Hola, bienvenido a mi bot!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "fcc0bd506d0af77e459ed09985cc7ca0",
+    "from": "5493426158055"
+  },
+  {
+    "ref": "4423ff43-dc25-4e3a-a48b-cf880a0a309a",
+    "keyword": "fcc0bd506d0af77e459ed09985cc7ca0",
+    "answer": "Cómo hago un proyecto nodejs con express",
+    "options": {},
+    "from": "5493426158055",
+    "refSerialize": "683b0397ff923df50d6d7388cadaad91"
+  },
+  {
+    "ref": "ans_bb5d17ac-6526-4074-913d-c897ea59996f",
+    "keyword": "ans_36b6ed21-2549-4f54-8779-dd675d1cbbea",
+    "answer": "tienes otra pregunta",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "be2d187b502559807cc200e37a6b042d",
+    "from": "5493426158055"
+  },
+  {
+    "ref": "37da6a63-1fc5-432d-b1e6-919b47ad732b",
+    "keyword": "be2d187b502559807cc200e37a6b042d",
+    "answer": "Hazme un carrito simple con HTML",
+    "options": {},
+    "from": "5493426158055",
+    "refSerialize": "054816fc4e1a652d38cd3909a055951a"
+  },
+  {
+    "ref": "ans_bb5d17ac-6526-4074-913d-c897ea59996f",
+    "keyword": "ans_36b6ed21-2549-4f54-8779-dd675d1cbbea",
+    "answer": "tienes otra pregunta",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "be2d187b502559807cc200e37a6b042d",
+    "from": "5493426158055"
+  },
+  {
+    "ref": "37d36d86-1e54-4963-9e32-cd80d06120b8",
+    "keyword": "be2d187b502559807cc200e37a6b042d",
+    "answer": "No",
+    "options": {},
+    "from": "5493426158055",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_bb5d17ac-6526-4074-913d-c897ea59996f",
+    "keyword": "ans_36b6ed21-2549-4f54-8779-dd675d1cbbea",
+    "answer": "tienes otra pregunta",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "be2d187b502559807cc200e37a6b042d",
+    "from": "5493426158055"
+  },
+  {
+    "ref": "a7f3f457-eb16-4f26-9ddb-cbdcf2a0bd3a",
+    "keyword": "be2d187b502559807cc200e37a6b042d",
+    "answer": "no",
+    "options": {},
+    "from": "5493426158055",
+    "refSerialize": "196d1c4297b3cc409a816659f65c2beb"
+  }
+]

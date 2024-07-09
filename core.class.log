@@ -1,0 +1,142 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493426158055@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD7894A9159BD79BB6A',
+    participant: undefined
+  },
+  messageTimestamp: 1720545250,
+  pushName: 'Nunca Te Rindas, Avanza.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5493426158055'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_36b6ed21-2549-4f54-8779-dd675d1cbbea',
+  keyword: 'key_e381ae31-c364-4a46-896c-1befb3e5a00a',
+  answer: 'Hola, bienvenido a mi bot!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fcc0bd506d0af77e459ed09985cc7ca0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493426158055@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB55CD39C1A23537730',
+    participant: undefined
+  },
+  messageTimestamp: 1720545256,
+  pushName: 'Nunca Te Rindas, Avanza.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Cómo hago un proyecto nodejs con express',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo hago un proyecto nodejs con express',
+  from: '5493426158055'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bb5d17ac-6526-4074-913d-c897ea59996f',
+  keyword: 'ans_36b6ed21-2549-4f54-8779-dd675d1cbbea',
+  answer: 'tienes otra pregunta',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be2d187b502559807cc200e37a6b042d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493426158055@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3AF5008E2FE7FECA87',
+    participant: undefined
+  },
+  messageTimestamp: 1720545278,
+  pushName: 'Nunca Te Rindas, Avanza.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hazme un carrito simple con HTML',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hazme un carrito simple con HTML',
+  from: '5493426158055'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493426158055@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB862C2E8A8921837EF',
+    participant: undefined
+  },
+  messageTimestamp: 1720545297,
+  pushName: 'Nunca Te Rindas, Avanza.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'No', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No',
+  from: '5493426158055'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493426158055@s.whatsapp.net',
+    fromMe: false,
+    id: '3ADB885CDA5CB2C34CE9',
+    participant: undefined
+  },
+  messageTimestamp: 1720545303,
+  pushName: 'Nunca Te Rindas, Avanza.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'no', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no',
+  from: '5493426158055'
+}
