@@ -1,22 +1,45 @@
-### CHATBOT Whatsapp (Baileys Provider)
+# 🧑‍💻 TechiTalk 🚀
+### Que es?
+Este proyecto es un bot de WhatsApp desarrollado utilizando la librería @bot-whatsapp/bot. El bot responde inicialmente a un saludo y luego captura y procesa todos los mensajes posteriores utilizando una API de IA personalizada.
 
-<p align="center">
-  <img width="300" src="https://i.imgur.com/Oauef6t.png">
-</p>
+###  Requisitos  
+- Node.js
+- npm o yarn
+- docker (opcional)
+- Cuenta en [Replicate](https://replicate.com/) y obtener la api key
 
+## Instalación
+1 - Clona el repositorio
+ ```bash
+  git clone https://github.com/MarcoSavarin0/TechieTalk
+  cd TechieTalk
+ ```
+2 - Instala las dependencias
+ ```bash
+  npm install
+ ```
+o
 
-**Con esta librería, puedes construir flujos automatizados de conversación de manera agnóstica al proveedor de WhatsApp,** configurar respuestas automatizadas para preguntas frecuentes, recibir y responder mensajes de manera automatizada, y hacer un seguimiento de las interacciones con los clientes.  Además, puedes configurar fácilmente disparadores que te ayudaran a expandir las funcionalidades sin límites. **[Ver documentación](https://bot-whatsapp.netlify.app/)**
+ ```bash
+  yarn install
+ ```
+## Ejecucion
+1 - Inicia el bot
+#### en tu maquina
+   ```bash
+  npm start
+ ```
+o
+  ```bash
+  yarn start
+ ```
+#### con docker
+  ```bash
+  docker build -t wsp-bot .
+ ```
+  ```bash
+  docker run -d docker run -e PORT=3001 -p 3001:3001 wsp-bot
+ ```
 
-
-```
-npm install
-npm start
-```
-
----
-## Recursos
-- [📄 Documentación](https://bot-whatsapp.netlify.app/)
-- [🚀 Roadmap](https://github.com/orgs/codigoencasa/projects/1)
-- [💻 Discord](https://link.codigoencasa.com/DISCORD)
-- [👌 Twitter](https://twitter.com/leifermendez)
-- [🎥 Youtube](https://www.youtube.com/watch?v=5lEMCeWEJ8o&list=PL_WGMLcL4jzWPhdhcUyhbFU6bC0oJd2BR)
+## Contribuciones
+Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para cualquier mejora o corrección.
